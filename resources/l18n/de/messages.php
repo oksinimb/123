@@ -11,7 +11,7 @@ return array(
     'loggedAs' => 'Logged as:',
     'badUsernameOrPassword' => 'Bad username or password.',
     'successfullyLoggedOut' => 'You have been successfully logged out.',
-    'welcome' => 'Welcome',
+    'welcome' => 'Begrüßung',
     'unexpectedError' => 'Sorry, an unexpected error occurred...',
     'noCongregations' => 'There\'s no congregations.',
     'createOne' => 'Create one',
