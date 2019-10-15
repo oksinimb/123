@@ -1,4 +1,5 @@
 files:
-  - source: '*.xml'
-    translation: '%original_file_name%'
-    content_segmentation: 0
+  - source: /**/l18n/en/*.php
+    ignore:
+      - /**/l18n/en/*2.php
+    translation: /**/l18n/%two_letters_code%/%original_file_name%
