@@ -1,0 +1,46 @@
+<?php
+
+return array(
+
+	'home' => 'crwdns15399:0crwdne15399:0',
+	'login' => 'crwdns15401:0crwdne15401:0',
+    'pleaseLogin' => 'crwdns15403:0crwdne15403:0',
+    'speakers' => 'crwdns15405:0crwdne15405:0',
+    'congregations' => 'crwdns15407:0crwdne15407:0',
+    'talks' => 'crwdns15409:0crwdne15409:0',
+    'loggedAs' => 'crwdns15411:0crwdne15411:0',
+    'badUsernameOrPassword' => 'crwdns15413:0crwdne15413:0',
+    'successfullyLoggedOut' => 'crwdns15415:0crwdne15415:0',
+    'welcome' => 'crwdns15417:0crwdne15417:0',
+    'unexpectedError' => 'crwdns15419:0crwdne15419:0',
+    'noCongregations' => 'crwdns15421:0crwdne15421:0',
+    'createOne' => 'crwdns15423:0crwdne15423:0',
+    'createCongregation' => 'crwdns15425:0crwdne15425:0',
+    'datetimeFormat' => 'crwdns15427:0crwdne15427:0',
+    'formErrors' => 'crwdns15429:0crwdne15429:0',
+    'congregationCreated' => 'crwdns15431:0crwdne15431:0',
+    'id' => 'crwdns15433:0crwdne15433:0',
+    'name' => 'crwdns15435:0crwdne15435:0',
+    'address' => 'crwdns15437:0crwdne15437:0',
+    'actions' => 'crwdns15439:0crwdne15439:0',
+    'edit' => 'crwdns15441:0crwdne15441:0',
+    'editCongregation' => 'crwdns15443:0crwdne15443:0',
+    'update' => 'crwdns15445:0crwdne15445:0',
+    'cancel' => 'crwdns15447:0crwdne15447:0',
+    'pmDayOfWeek' => 'crwdns15449:0crwdne15449:0',
+    'pmTime' => 'crwdns15451:0crwdne15451:0',
+    'create' => 'crwdns15453:0crwdne15453:0',
+    'congregationUpdated' => 'crwdns15455:0crwdne15455:0',
+    'settings' => 'crwdns15457:0crwdne15457:0',
+    'save' => 'crwdns15459:0crwdne15459:0',
+    'language' => 'crwdns15461:0crwdne15461:0',
+    'settingsSaved' => 'crwdns15463:0crwdne15463:0',
+    'family' => array(
+            'father' => 'crwdns15465:0crwdne15465:0',
+            'mother' => 'crwdns15467:0crwdne15467:0',
+            'children'  => array(
+                 'son' => 'crwdns15469:0crwdne15469:0',
+            ),
+    ),
+    'plural' => 'crwdns15471:0crwdne15471:0'
+);
